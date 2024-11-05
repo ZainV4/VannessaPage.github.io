@@ -32,11 +32,11 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Vannessa',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    subtitle: 'When a project matters',
+    description: 'blog which talks about child abuse and its world connections',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: '/childAbuse1.jpg',
+        alt: 'image'
     },
     headerNavLinks: [
         {
