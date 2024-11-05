@@ -1,0 +1,40 @@
+---
+import type { GetStaticPathsOptions, Page } from 'astro';
+import { type CollectionEntry, getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Pagination from '../../components/Pagination.astro';
+import ProjectPreview from '../../components/ProjectPreview.astro';
+import siteConfig from '../../data/site-config';
+import { sortItemsByDateDesc } from '../../utils/data-utils';
+
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+    const projects = (await getCollection('projects')).sort(sortItemsByDateDesc);
+    return paginate(projects, { pageSize: siteConfig.projectsPerPage || 6 });
+}
+
+type Props = { page: Page<CollectionEntry<'projects'>> };
+
+const { page } = Astro.props;
+const portfolio = page.data;
+---
+
+<BaseLayout
+    title="Washington black"
+    description="Explore a diverse"
+    image={{ src: '/dante-preview.jpg', alt: 'The preview of the site' }}
+    showHeader={false}
+>
+    <h1 class="mb-12 text-1xl leading-tight font-serif italic sm:mb-16 sm:text-4xl">Washington Black</h1>
+    <h3 class="text-xl font-semibold mb-4 ">Literature and Child Abuse</h3>
+    <p class="mb-6   leading-relaxed">
+        Literature serves as a powerful lens through which we can explore complex social issues, 
+        including the pervasive nature of child abuse. Novels like *Washington Black* offer profound insights into the psychological and emotional ramifications of abuse, 
+        illuminating the nuanced dynamics between power, control, and identity. Edugyan’s narrative not only highlights the experiences of those marginalized by society but also delves into the internal struggles faced by victims. 
+        By portraying Washington's relationship with Titch, the novel allows readers to witness the insidious effects of emotional manipulation and the longing for acceptance that often characterize the lives of abuse survivors. 
+        Through its vivid storytelling, *Washington Black* encourages empathy and understanding, shedding light on the struggles faced by individuals caught in cycles of abuse and the complex interplay between victim and perpetrator.
+    </p>
+    <br>
+    <br>
+    {portfolio.map((project) => <ProjectPreview project={project} class="mb-10 sm:mb-12" />)}
+    <Pagination page={page} class="my-16 sm:my-24" />
+</BaseLayout>
