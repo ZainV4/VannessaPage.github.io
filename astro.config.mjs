@@ -6,7 +6,8 @@ import tailwind from '@astrojs/tailwind';
 // https://astro.build/config
 export default defineConfig({
     site: 'https://VannessaPage.github.io',
-    base: '',
+    base: '/VannessaPage.github.io',
+    outDir: 'docs',
     integrations: [
         mdx(),
         sitemap(),
