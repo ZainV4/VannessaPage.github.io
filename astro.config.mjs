@@ -5,12 +5,14 @@ import tailwind from '@astrojs/tailwind';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://example.com',
+    site: 'https://VannessaPage.github.io',
+    base: '',
     integrations: [
         mdx(),
         sitemap(),
         tailwind({
             applyBaseStyles: false
         })
-    ]
+    ],
+    outDir: 'docs' // Output to 'docs' folder for GitHub Pages
 });
