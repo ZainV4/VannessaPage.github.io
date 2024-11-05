@@ -1,5 +1,5 @@
 ---
-title: Disgust and Power Dynamics in Washington Black
+title: Conflicting feelings in Washington Black
 description: reveals the discomfort and disdain often felt by abusers, reinforcing the power imbalance that victimizes and isolates the child.
 publishDate: ''
 isFeatured: true

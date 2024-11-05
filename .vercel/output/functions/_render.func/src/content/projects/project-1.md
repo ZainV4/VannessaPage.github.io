@@ -10,30 +10,31 @@ seo:
 ---
 
 
-In Esi Edugyan's *Washington Black*, the dialogue between Titch and Washington presents a stark reflection on themes of power, ownership, and the complexities of human relationships. The quote:
+In Esi Edugyan’s *Washington Black*, a dialogue between Titch and Washington presents a theme of power, ownership, and the complexities of relationships. The quote:
 
-> “I shall ask my brother to release you permanently,” followed by Washington’s response, “Oh no, Titch, I would rather be your property” (pg. 105),
+> “I shall ask my brother to release you permanently,” followed by Washington’s response, “Oh no, Titch, I would rather be your property” (Edugyan 105),
 
 captures the painful reality of Washington's situation as an enslaved individual grappling with his identity and agency.
 
 ## Context of the Quote
 
-This exchange occurs in a tense moment where Titch, who represents both a friend and a master, suggests the possibility of Washington’s freedom. However, Washington's chilling response reveals the depths of his despair and resignation. His willingness to remain "property" reflects a survival instinct shaped by a life of oppression, where the known is often perceived as safer than the unknown.
+This conversation occurs in a tense moment where Titch, who sets himself up as both a friend, saviour, and a master. He suggests the possibility of Washington’s freedom; however, Washington’s response reveals the depths of his corrupted thought process. His willingness to remain reduced to a property reflects on his adverse experiences as a slave.
+
 
 ## Connections to Child Abuse
 
 ### The Illusion of Choice
 
-Washington’s acceptance of being Titch’s property highlights a significant psychological theme often observed in cases of child abuse: the illusion of choice. Victims may feel trapped in their circumstances and may even choose to cling to an abusive relationship because it offers a semblance of stability. This quote illustrates how survivors of abuse can internalize their situations, perceiving a toxic bond as a preferable alternative to the uncertainty of independence.
+Washington’s choice to be Titch’s property highlights a significant psychological theme often seen in cases of child abuse. Victims may feel trapped in their circumstances and choose to cling to an abusive relationship because it offers a sense of familiarity which can be seen in Washington throughout the book 
 
 ### Power Imbalance
 
-The dialogue starkly portrays the power dynamics at play between Titch and Washington. Titch, despite being a friend, holds dominion over Washington’s fate. In abusive relationships, this power imbalance is prevalent, with the abuser controlling the victim's options and perceptions. Washington's response suggests a tragic acceptance of his reality, mirroring the experiences of many who find themselves caught in cycles of abuse.
+This interaction portrays the power dynamics that are involved between Titch and Washington. Titch, despite acting as a friend, holds power over Washington’s fate. In abusive relationships, this power imbalance is very significant, with the abuser taking adavantage of the victim’s vulnerability and sense of self.
 
 ### Internalized Trauma
 
-Washington's statement reflects the internalized trauma often experienced by abuse victims. By expressing a preference for being property, he conveys a sense of hopelessness that can accompany prolonged exposure to abuse. This resigned acceptance can hinder a victim's ability to envision a life beyond their current circumstances, further entrenching them in a cycle of victimization.
+Washington’s statement reflects his internalized trauma. By saying he would rather be the property of Titch than Erasmus, he shows a sense of hopelessness that is a result of exposure to abuse. This hopelessness can hinder a victim’s ability to envision a life beyond their current circumstances, further engulfing them in the cycle of abuse.
 
 ## Conclusion
 
-Edugyan's *Washington Black* offers a poignant exploration of power, ownership, and the complex emotions intertwined in relationships marked by inequality. The quote illustrates the painful realities faced by those who are oppressed and the psychological mechanisms that emerge in response to trauma. By examining these themes, we gain insight into the broader implications of ownership and agency, particularly in the context of child abuse, where the line between safety and oppression often becomes tragically blurred.
+Esi Edugyan’s *Washington Black* explores power, ownership, and the emotions involved in relationships stunted by inequality. The quote illustrates the realities of those who are oppressed and the psychological consequences that can occur in response to trauma. By looking into these themes, we gain insight into the implications of ownership and personal autonomy in the context of child abuse.
