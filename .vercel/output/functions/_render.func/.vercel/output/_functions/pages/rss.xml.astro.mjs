@@ -1,6 +1,6 @@
 import rss from '@astrojs/rss';
-import { g as getCollection, s as siteConfig } from '../chunks/site-config_BlyWkFtw.mjs';
-import { s as sortItemsByDateDesc } from '../chunks/data-utils_CWW1Kz6W.mjs';
+import { g as getCollection, s as siteConfig } from '../chunks/site-config_BkXyOw8q.mjs';
+import { s as sortItemsByDateDesc } from '../chunks/data-utils_E9KD03mE.mjs';
 export { renderers } from '../renderers.mjs';
 
 async function GET(context) {

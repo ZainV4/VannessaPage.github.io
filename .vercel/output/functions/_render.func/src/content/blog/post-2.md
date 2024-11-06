@@ -1,6 +1,6 @@
 ---
 title: A Child's Journey Through Neglect - Sophie's Story
-excerpt: Quote {My experiences of being neglected as a child are with me every day. No one was there most of the time, and even when they were, they weren't properly there. They were out of it. It was just hell.}
+excerpt: Quote 3 {My experiences of being neglected as a child are with me every day. No one was there most of the time, and even when they were, they weren't properly there. They were out of it. It was just hell.}
 publishDate: '2024'
 tags:
   - Web
