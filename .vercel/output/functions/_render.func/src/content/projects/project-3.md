@@ -14,26 +14,26 @@ In Esi Edugyan's *Washington Black*, the quote:
 
 > “What were you doing standing so close for? I sent you back to observe with Philip” (Edugyan 87),
 
-highlights not only the hierarchical relationship between Titch and Washington but also Titch's emotional response, which includes a sense of disgust that reveals deeper themes of power and control.
+highlights the conflicting feelings between Titch and Washington but also Titch’s emotional response, which is a sense of dipleasure.
 
 ## Context of the Quote
 
-This moment occurs when Titch expresses irritation and disapproval towards Washington for being too close. The frustration suggests that Titch perceives Washington's proximity as inappropriate or invasive, reflecting a discomfort that transcends mere annoyance. This discomfort can be understood as a manifestation of Titch's internalized beliefs about race and class, where Washington's presence is a reminder of his position within a social hierarchy that Titch is reluctant to confront.
+This momment occurs when Titch expresses his frustration towards Washington for being too close to the Cloud-Cutter leading him to be severly injured. The frustration suggests that he felt very disrespected by Wash’s negligance. Although, this scene proves to be very complicated as Titch also feels genuine concern. His concern lies in the fact that Washington is a tool and now that his tool is injured, how can he carry on with his scientific innovation? Beneth the concern is a personal vendetta that he feels the need to fulfill. 
 
 ## Connections to Child Abuse
 
-### Disgust as a Tool of Control
+### Frustration as a Tool of Control
 
-Titch's disgust toward Washington can be viewed as a form of emotional manipulation, a tactic often employed by abusers to reinforce power dynamics. In abusive relationships, the abuser may express contempt or revulsion towards the victim, creating an environment of shame and devaluation. This response can lead victims to internalize negative feelings about themselves, believing they are unworthy or undeserving of respect and kindness.
+Titch’s frustration toward Washington can be viewed as a tool for emotional manipulation, a tactic often used by abusers to reinforce power. In abusive relationships, the abuser may guilt-trip the victim as a projection of their frustration, creating a very toxic and controlling environment. This tactic can lead victims truly believing they were in the wrong and leading them to blame themselves. This can cause a low self-esteem and normalizes the abusive behaviours being inflicted on them because they may not realiezed they are being guilt-tripped. 
 
 ### The Impact of Power Imbalance
 
-The quote illustrates the significant power imbalance in their relationship, where Titch's discomfort serves to assert dominance over Washington. This dynamic is reminiscent of many abusive situations, where the abuser's emotional reactions dictate the victim's behavior and sense of self-worth. Washington’s role as an observer highlights his subservient position, making him vulnerable to Titch’s fluctuating emotions and attitudes.
+The quote illustrates the significant power imbalance in their relationship, where Titch’s disapointment trump's Washington’s health and well-being as he has just experienced a very physically traumatic momment. This is mirrored in many abusive situations, where the abuser’s emotions dictate the victims well-being and overall circumstances. 
 
 ### The Psychological Toll
 
-Titch’s disgust can have profound implications for Washington's psyche. Experiencing rejection or disdain from someone who holds power over him could lead Washington to question his own value and worthiness. This internal conflict is common among victims of abuse, who often grapple with feelings of shame and inadequacy instilled by their abusers. 
+Since Titch has significant control over Washington’s state of mind, experiencing this disdain from someone who has a big influence on him can lead to Washington questioning his own value and abilities to be an assistant. This often causes the victims to have very low confidence in themselves. 
 
 ## Conclusion
 
-Through this quote, Edugyan effectively conveys the uncomfortable dynamics of Titch and Washington's relationship, emphasizing Titch's emotional response as a tool of control and devaluation. The disgust that Titch expresses serves to reinforce the power imbalance inherent in their interactions, mirroring the emotional manipulation present in many abusive relationships. By examining these themes, we can better understand the lasting psychological effects of such dynamics, particularly on those who are marginalized and oppressed.
+Through this quote, Esi Edugyan effectively shows the intricases of Titch and Washington’s relationship, emphasizing how Titch’s own emotions are used as a tool for control over any given situation. This mirrors the emotional manipulation tactics in many abusive relationships. By examining these themes, we can better understand the lasting psychological effects. 
